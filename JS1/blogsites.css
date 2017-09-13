@@ -1,0 +1,37 @@
+
+body{
+
+	padding: 20px;
+	border: 20px solid #bdc3c7;
+	max-width: 700px;
+	width:80%;
+	height:90%;
+	margin:20px auto;
+	font-family: "Source Sans Pro";
+
+}
+
+
+
+.one{
+
+	color: #3498db;
+	letter-spacing: 0.2rem;
+	margin: 5px 5px 10px 5px;
+	text-transform: uppercase;
+
+
+}
+
+.two{
+
+	padding:2px;
+	border-left: 3px solid #bdc3c7;
+}
+.three{
+	margin: 5px 5px 10px 5px;
+}
+
+article{
+	margin: 5px 5px 5px 5px;
+}

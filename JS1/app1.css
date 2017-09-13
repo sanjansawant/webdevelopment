@@ -1,0 +1,35 @@
+ h1{
+
+		color:#7D2394;
+		/*border-color:purple; 
+		border-width: 5px;
+		border-style: solid;*/
+		border: 2px dashed purple;
+	}
+li{
+
+		color:rgba(0,200,100,1);
+	}
+
+h4{
+
+	background:rgb(255,100,80);
+}
+
+body{
+
+background:orange;
+/*	background:url(https://i.pinimg.com/originals/b6/07/95/b60795007716db1797bf6245dda97361.jpg);
+	background-repeat:no-repeat;
+	background-size: cover;*/
+}
+
+#special{
+	background: yellow;
+}
+
+.completed{
+text-decoration:  line-through;
+
+}
+

@@ -1,0 +1,31 @@
+.one{
+	border-right: 2px solid black;
+	border-bottom: 2px solid black;
+	padding: 5px;
+	width:100px;
+	height:100px;
+
+
+}
+
+
+.three{
+	border-right: 2px solid black;
+	padding: 5px;
+	width:100px;
+	height:100px;
+	
+}
+
+.four{
+
+	border-bottom: 2px solid black;
+	width:100px;
+	height:100px;
+	
+}
+
+table{
+	margin:auto;
+	margin-left: 1.66%
+}
